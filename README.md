@@ -1,5 +1,5 @@
 # K20_Design-and-build-algorithm-for-self-driving-vehicle-in-Unity-virtual-environment
-<h3>Kaist Pre-URP</h3>
+<h3>Kaist Pre-URP K20</h3>
 <h4>
 제주과학고등학교 3학년, 고예준, koyejune0302@gmail.com<br>
 경산과학고등학교 2학년, 민준우, edb5209@naver.com<br>
